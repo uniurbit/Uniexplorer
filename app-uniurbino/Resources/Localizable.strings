@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Plin
+
+  Created by Manuela on 25/08/21.
+  
+*/
+
+"profilo_nome" = "Nome";
+"profilo_cognome" = "Cognome";
+"profilo_email" = "Email";
+"profilo_password" = "Password";
+"profilo_telefono" = "Telefono";
+"profilo_indirizzo" = "Indirizzo";
+"profilo_città" = "Città";
+"profilo_provincia" = "Provincia";
